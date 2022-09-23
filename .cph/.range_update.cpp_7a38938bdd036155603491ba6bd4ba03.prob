@@ -1,0 +1,1 @@
+{"name":"Local: range_update","url":"d:\\codes\\range_update.cpp","tests":[{"id":1662983753093,"input":"7\n1 0 0 1 1 0 1\n3\n1 1 5\n2 1 5\n1 1 5","output":"2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codes\\range_update.cpp","group":"local","local":true}
